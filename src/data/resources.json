@@ -1,0 +1,447 @@
+[
+  {
+    "id": 1,
+    "title": "Figma",
+    "description": "Collaborative interface design tool for building UI/UX prototypes and design systems in real time.",
+    "url": "https://www.figma.com",
+    "category": "Design Tools",
+    "tags": ["design", "prototyping", "collaboration"],
+    "pinned": true
+  },
+  {
+    "id": 2,
+    "title": "Adobe XD",
+    "description": "Vector-based design and prototyping tool for creating wireframes, mockups, and interactive experiences.",
+    "url": "https://helpx.adobe.com/xd/get-started.html",
+    "category": "Design Tools",
+    "tags": ["design", "prototyping", "adobe"],
+    "pinned": false
+  },
+  {
+    "id": 3,
+    "title": "Coolors",
+    "description": "Fast color palette generator to create, save, and share beautiful color schemes for your projects.",
+    "url": "https://coolors.co",
+    "category": "Design Tools",
+    "tags": ["colors", "palette", "design"],
+    "pinned": false
+  },
+  {
+    "id": 4,
+    "title": "MDN Web Docs – CSS",
+    "description": "Comprehensive CSS reference and guides maintained by Mozilla for web developers of all levels.",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/CSS",
+    "category": "CSS",
+    "tags": ["css", "reference", "documentation"],
+    "pinned": true
+  },
+  {
+    "id": 5,
+    "title": "CSS-Tricks",
+    "description": "Articles, guides, and tips covering every aspect of CSS — from flexbox to grid to animations.",
+    "url": "https://css-tricks.com",
+    "category": "CSS",
+    "tags": ["css", "flexbox", "grid", "tutorials"],
+    "pinned": false
+  },
+  {
+    "id": 6,
+    "title": "Modern CSS Solutions",
+    "description": "Practical, modern CSS techniques for common layout and styling challenges in web design.",
+    "url": "https://moderncss.dev",
+    "category": "CSS",
+    "tags": ["css", "layout", "modern"],
+    "pinned": false
+  },
+  {
+    "id": 35,
+    "title": "CSS Layout Generator",
+    "description": "Visual CSS layout generator for Grid and Flexbox — pick a template, tweak the settings, and copy the code.",
+    "url": "https://layout.bradwoods.io",
+    "category": "CSS",
+    "tags": ["css", "layout", "grid", "flexbox"],
+    "pinned": false
+  },
+  {
+    "id": 7,
+    "title": "JavaScript.info",
+    "description": "The modern JavaScript tutorial — from fundamentals to advanced topics with clear, in-depth explanations.",
+    "url": "https://javascript.info",
+    "category": "JavaScript",
+    "tags": ["javascript", "tutorials", "fundamentals"],
+    "pinned": true
+  },
+  {
+    "id": 8,
+    "title": "MDN Web Docs – JavaScript",
+    "description": "Authoritative JavaScript reference including APIs, syntax, and best practices from Mozilla.",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+    "category": "JavaScript",
+    "tags": ["javascript", "reference", "documentation"],
+    "pinned": false
+  },
+  {
+    "id": 9,
+    "title": "You Don't Know JS",
+    "description": "Free book series diving deep into the core mechanisms of JavaScript — closures, prototypes, and more.",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "category": "JavaScript",
+    "tags": ["javascript", "books", "advanced"],
+    "pinned": false
+  },
+  {
+    "id": 10,
+    "title": "React Documentation",
+    "description": "Official React docs with interactive examples, API reference, and guides for building component-driven UIs.",
+    "url": "https://react.dev",
+    "category": "React",
+    "tags": ["react", "documentation", "components"],
+    "pinned": true
+  },
+  {
+    "id": 11,
+    "title": "React Patterns",
+    "description": "Curated collection of common React patterns including hooks, render props, and compound components.",
+    "url": "https://reactpatterns.com",
+    "category": "React",
+    "tags": ["react", "patterns", "hooks"],
+    "pinned": false
+  },
+  {
+    "id": 37,
+    "title": "React Bits",
+    "description": "Collection of animated React components, hooks, and UI effects — ready to copy and drop into your project.",
+    "url": "https://reactbits.dev",
+    "category": "React",
+    "tags": ["react", "components", "animation", "ui"],
+    "pinned": false
+  },
+  {
+    "id": 12,
+    "title": "Heroicons",
+    "description": "Beautiful, hand-crafted SVG icons by the makers of Tailwind CSS — free and open source.",
+    "url": "https://heroicons.com",
+    "category": "Icons & Assets",
+    "tags": ["icons", "svg", "free"],
+    "pinned": false
+  },
+  {
+    "id": 13,
+    "title": "Unsplash",
+    "description": "Massive library of high-resolution, royalty-free photos contributed by a global community.",
+    "url": "https://unsplash.com",
+    "category": "Icons & Assets",
+    "tags": ["images", "photos", "free"],
+    "pinned": false
+  },
+  {
+    "id": 14,
+    "title": "Google Fonts",
+    "description": "Free, open-source font library with hundreds of typefaces optimized for the web.",
+    "url": "https://fonts.google.com",
+    "category": "Icons & Assets",
+    "tags": ["fonts", "typography", "free"],
+    "pinned": true
+  },
+  {
+    "id": 15,
+    "title": "Lucide Icons",
+    "description": "Community-driven fork of Feather Icons with a growing set of clean, consistent SVG icons.",
+    "url": "https://lucide.dev",
+    "category": "Icons & Assets",
+    "tags": ["icons", "svg", "open-source"],
+    "pinned": false
+  },
+  {
+    "id": 34,
+    "title": "Icon Icons",
+    "description": "Huge library of free icons in multiple styles and formats — PNG, SVG, ICO, and ICNS available for download.",
+    "url": "https://icon-icons.com",
+    "category": "Icons & Assets",
+    "tags": ["icons", "free", "png", "svg"],
+    "pinned": false
+  },
+  {
+    "id": 36,
+    "title": "Phosphor Icons",
+    "description": "Flexible icon family with 6 weights — thin, light, regular, bold, fill, and duotone — for any UI style.",
+    "url": "https://phosphoricons.com",
+    "category": "Icons & Assets",
+    "tags": ["icons", "svg", "free", "open-source"],
+    "pinned": false
+  },
+  {
+    "id": 16,
+    "title": "Dribbble",
+    "description": "The go-to community for designers to share work, find inspiration, and discover top UI/UX design trends.",
+    "url": "https://dribbble.com",
+    "category": "Design Inspirations",
+    "tags": ["design", "inspiration", "ui", "community"],
+    "pinned": true
+  },
+  {
+    "id": 17,
+    "title": "Logo System",
+    "description": "Curated collection of logo design systems — explore how top brands structure and scale their visual identity.",
+    "url": "https://logosystem.co",
+    "category": "Design Inspirations",
+    "tags": ["design", "logo", "branding", "inspiration"],
+    "pinned": false
+  },
+  {
+    "id": 19,
+    "title": "Relume",
+    "description": "AI-powered website builder that generates sitemaps, wireframes, and full Figma or Webflow-ready component layouts from a text prompt.",
+    "url": "https://www.relume.io",
+    "category": "Vibe Designing",
+    "tags": ["ai", "design", "generative", "layout"],
+    "pinned": true
+  },
+  {
+    "id": 20,
+    "title": "Figma AI",
+    "description": "AI features built into Figma — generate UI from prompts, auto-rename layers, rewrite copy, and prototype faster with contextual suggestions.",
+    "url": "https://www.figma.com/ai",
+    "category": "Vibe Designing",
+    "tags": ["ai", "design", "figma", "prototyping"],
+    "pinned": false
+  },
+  {
+    "id": 21,
+    "title": "Google Stitch",
+    "description": "Google's AI-powered UI design tool that generates app screens and components from text and image prompts, exportable to Figma.",
+    "url": "https://stitch.withgoogle.com",
+    "category": "Vibe Designing",
+    "tags": ["ai", "design", "generative", "google"],
+    "pinned": false
+  },
+  {
+    "id": 28,
+    "title": "V0",
+    "description": "Vercel's AI UI generator — describe a component or page and get production-ready React + Tailwind code instantly.",
+    "url": "https://v0.dev",
+    "category": "Vibe Designing",
+    "tags": ["ai", "vibe-coding", "react", "components"],
+    "pinned": false
+  },
+  {
+    "id": 22,
+    "title": "Kiro",
+    "description": "AI IDE by AWS built around specs, hooks, and steering — structured agentic development with full autonomy controls.",
+    "url": "https://kiro.dev",
+    "category": "Vibe Coding",
+    "tags": ["ai", "ide", "agentic", "editor"],
+    "pinned": true
+  },
+  {
+    "id": 24,
+    "title": "Antigravity",
+    "description": "Google's agent-first IDE with autonomous multi-agent workflows across editor, terminal, and browser — powered by Gemini, Claude, and GPT.",
+    "url": "https://idx.google.com/antigravity",
+    "category": "Vibe Coding",
+    "tags": ["ai", "ide", "agentic", "google"],
+    "pinned": false
+  },
+  {
+    "id": 25,
+    "title": "Cursor",
+    "description": "AI-first code editor built on VS Code — intelligent autocomplete, multi-file editing, and natural-language coding assistance.",
+    "url": "https://www.cursor.com",
+    "category": "Vibe Coding",
+    "tags": ["ai", "ide", "vibe-coding", "editor"],
+    "pinned": false
+  },
+  {
+    "id": 26,
+    "title": "Windsurf",
+    "description": "AI-powered IDE by Codeium with deep codebase awareness, agentic flows, and seamless pair-programming experience.",
+    "url": "https://codeium.com/windsurf",
+    "category": "Vibe Coding",
+    "tags": ["ai", "ide", "codeium", "agentic"],
+    "pinned": false
+  },
+  {
+    "id": 27,
+    "title": "Lovable",
+    "description": "AI-powered app builder that turns prompts into full-stack web apps — React frontend, Supabase backend, deployed instantly.",
+    "url": "https://lovable.dev",
+    "category": "Vibe Coding",
+    "tags": ["ai", "vibe-coding", "full-stack", "deploy"],
+    "pinned": false
+  },
+  {
+    "id": 29,
+    "title": "Manus",
+    "description": "Autonomous AI agent that independently browses the web, writes code, and completes complex multi-step tasks end-to-end.",
+    "url": "https://manus.im",
+    "category": "Vibe Coding",
+    "tags": ["ai", "agentic", "vibe-coding", "autonomous"],
+    "pinned": false
+  },
+  {
+    "id": 30,
+    "title": "Coolors",
+    "description": "Fast color scheme generator — create, explore, and export beautiful palettes with one keypress.",
+    "url": "https://coolors.co",
+    "category": "Color Theme Gallery",
+    "tags": ["colors", "palette", "design", "generator"],
+    "pinned": true,
+    "palettes": [
+      ["#264653","#2A9D8F","#E9C46A","#F4A261","#E76F51"],
+      ["#FFBE0B","#FB5607","#FF006E","#8338EC","#3A86FF"],
+      ["#D9ED92","#B5E48C","#99D98C","#76C893","#52B69A"],
+      ["#F72585","#7209B7","#3A0CA3","#4361EE","#4CC9F0"],
+      ["#EDEDE9","#D6CCC2","#F5EBE0","#E3D5CA","#D5BDAF"],
+      ["#03045E","#023E8A","#0077B6","#0096C7","#00B4D8"],
+      ["#FFF3B0","#E09F3E","#9E2A2B","#335C67","#540B0E"],
+      ["#F8F9FA","#E9ECEF","#DEE2E6","#CED4DA","#ADB5BD"]
+    ]
+  },
+  {
+    "id": 31,
+    "title": "Realtime Colors",
+    "description": "Visualize your color palette on a real UI in real time — test contrast, swap roles, and export CSS variables.",
+    "url": "https://www.realtimecolors.com",
+    "category": "Color Theme Gallery",
+    "tags": ["colors", "palette", "css", "design"],
+    "pinned": false,
+    "palettes": [
+      ["#0D0D0D","#1A1A2E","#16213E","#0F3460","#E94560"],
+      ["#FAFAFA","#F0F0F0","#E0E0E0","#BDBDBD","#9E9E9E"],
+      ["#2D3436","#636E72","#B2BEC3","#DFE6E9","#FFFFFF"],
+      ["#6C5CE7","#A29BFE","#FD79A8","#FDCB6E","#00CEC9"],
+      ["#2C3E50","#3498DB","#ECF0F1","#E74C3C","#2ECC71"],
+      ["#1B1B2F","#2C2C54","#474787","#AAABB8","#E8E8E8"],
+      ["#F5F5F5","#EBEBEB","#D4D4D4","#ABABAB","#6B6B6B"],
+      ["#FF6B6B","#FFA07A","#FFD700","#90EE90","#87CEEB"]
+    ]
+  },
+  {
+    "id": 32,
+    "title": "Huemint",
+    "description": "AI-powered color palette generator that creates brand-aware themes for websites, logos, and illustrations.",
+    "url": "https://huemint.com",
+    "category": "Color Theme Gallery",
+    "tags": ["colors", "ai", "palette", "branding"],
+    "pinned": false,
+    "palettes": [
+      ["#FF595E","#FFCA3A","#6A4C93","#1982C4","#8AC926"],
+      ["#F94144","#F3722C","#F8961E","#F9C74F","#90BE6D"],
+      ["#22223B","#4A4E69","#9A8C98","#C9ADA7","#F2E9E4"],
+      ["#03071E","#370617","#6A040F","#9D0208","#D00000"],
+      ["#7400B8","#6930C3","#5E60CE","#5390D9","#4EA8DE"],
+      ["#D8F3DC","#B7E4C7","#95D5B2","#74C69D","#52B788"],
+      ["#FEC89A","#FEC5BB","#FCD5CE","#FAE1DD","#F8EDEB"],
+      ["#EF233C","#D90429","#2B2D42","#8D99AE","#EDF2F4"]
+    ]
+  },
+  {
+    "id": 33,
+    "title": "UI Colors",
+    "description": "Generate Tailwind-compatible color scales from any hex — perfect for building consistent design systems.",
+    "url": "https://uicolors.app",
+    "category": "Color Theme Gallery",
+    "tags": ["colors", "tailwind", "design", "palette"],
+    "pinned": false,
+    "palettes": [
+      ["#FEF3C7","#FDE68A","#FCD34D","#FBBF24","#F59E0B"],
+      ["#DBEAFE","#BFDBFE","#93C5FD","#60A5FA","#3B82F6"],
+      ["#D1FAE5","#A7F3D0","#6EE7B7","#34D399","#10B981"],
+      ["#FCE7F3","#FBCFE8","#F9A8D4","#F472B6","#EC4899"],
+      ["#EDE9FE","#DDD6FE","#C4B5FD","#A78BFA","#8B5CF6"],
+      ["#FEE2E2","#FECACA","#FCA5A5","#F87171","#EF4444"],
+      ["#F0FDF4","#DCFCE7","#BBF7D0","#86EFAC","#4ADE80"],
+      ["#F0F9FF","#E0F2FE","#BAE6FD","#7DD3FC","#38BDF8"]
+    ]
+  },
+  {
+    "id": 38,
+    "title": "Mockup World",
+    "description": "Huge free collection of photorealistic PSD and scene mockups for presenting designs professionally.",
+    "url": "https://www.mockupworld.co",
+    "category": "Mockups",
+    "tags": ["mockups", "psd", "free", "design"],
+    "pinned": true
+  },
+  {
+    "id": 39,
+    "title": "Smartmockups",
+    "description": "Create stunning product mockups in seconds — no Photoshop needed, works entirely in the browser.",
+    "url": "https://smartmockups.com",
+    "category": "Mockups",
+    "tags": ["mockups", "design", "branding"],
+    "pinned": false
+  },
+  {
+    "id": 40,
+    "title": "Shots.so",
+    "description": "Beautiful device mockup frames for presenting app and web designs — clean, minimal, and customizable.",
+    "url": "https://shots.so",
+    "category": "Mockups",
+    "tags": ["mockups", "design", "presentation"],
+    "pinned": false
+  },
+  {
+    "id": 41,
+    "title": "Previewed",
+    "description": "3D mockup generator for app screenshots, devices, and branding — animate and export in seconds.",
+    "url": "https://previewed.app",
+    "category": "Mockups",
+    "tags": ["mockups", "3d", "animation", "branding"],
+    "pinned": false
+  },
+  {
+    "id": 42,
+    "title": "Mockups Design",
+    "description": "Free PSD mockups for packaging, devices, apparel, and print — high quality and ready to use.",
+    "url": "https://mockups-design.com",
+    "category": "Mockups",
+    "tags": ["mockups", "psd", "free", "packaging"],
+    "pinned": false
+  },
+  {
+    "id": 43,
+    "title": "ChatGPT",
+    "description": "OpenAI's conversational AI — brainstorm ideas, write copy, debug code, and get answers fast.",
+    "url": "https://chatgpt.com",
+    "category": "AI Tools",
+    "tags": ["ai", "chatgpt", "openai", "writing"],
+    "pinned": true
+  },
+  {
+    "id": 44,
+    "title": "Gemini",
+    "description": "Google's multimodal AI assistant — reason across text, images, and code with deep Google integration.",
+    "url": "https://gemini.google.com",
+    "category": "AI Tools",
+    "tags": ["ai", "gemini", "google", "multimodal"],
+    "pinned": false
+  },
+  {
+    "id": 45,
+    "title": "Perplexity",
+    "description": "AI-powered search engine that gives direct answers with cited sources — great for research and fact-checking.",
+    "url": "https://www.perplexity.ai",
+    "category": "AI Tools",
+    "tags": ["ai", "search", "research", "perplexity"],
+    "pinned": false
+  },
+  {
+    "id": 46,
+    "title": "Claude",
+    "description": "Anthropic's AI assistant — excels at long-form writing, analysis, coding, and nuanced reasoning.",
+    "url": "https://claude.ai",
+    "category": "AI Tools",
+    "tags": ["ai", "claude", "anthropic", "writing"],
+    "pinned": false
+  },
+  {
+    "id": 47,
+    "title": "Grok",
+    "description": "xAI's assistant with real-time web access and a sharp, direct style — built into X (Twitter).",
+    "url": "https://grok.com",
+    "category": "AI Tools",
+    "tags": ["ai", "grok", "xai", "search"],
+    "pinned": false
+  }
+]
