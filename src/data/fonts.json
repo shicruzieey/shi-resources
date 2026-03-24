@@ -1,5 +1,12 @@
 [
   {
+    "name": "Poppins",
+    "style": "Sans-Serif",
+    "weight": "400;500;600;700;800",
+    "description": "Geometric, rounded — friendly and widely loved for UI",
+    "tags": ["sans-serif", "geometric", "rounded"]
+  },
+  {
     "name": "Inter",
     "style": "Sans-Serif",
     "weight": "400;500;600;700",
@@ -7,108 +14,38 @@
     "tags": ["sans-serif", "ui", "versatile"]
   },
   {
-    "name": "Plus Jakarta Sans",
+    "name": "Chillax",
+    "style": "Sans-Serif",
+    "weight": "400;500;600;700",
+    "description": "Soft, modern variable font — relaxed feel for creative projects",
+    "tags": ["sans-serif", "variable", "modern"]
+  },
+  {
+    "name": "Bebas Neue",
+    "style": "Display",
+    "weight": "400",
+    "description": "Bold, condensed all-caps — strong impact for headlines and branding",
+    "tags": ["display", "bold", "headlines"]
+  },
+  {
+    "name": "Satoshi",
     "style": "Sans-Serif",
     "weight": "400;500;600;700;800",
-    "description": "Geometric, modern — great for headings and branding",
-    "tags": ["sans-serif", "geometric", "headings"]
+    "description": "Clean geometric sans — modern and versatile for any UI",
+    "tags": ["sans-serif", "geometric", "modern"]
   },
   {
-    "name": "DM Sans",
+    "name": "Roboto",
     "style": "Sans-Serif",
-    "weight": "400;500;600;700",
-    "description": "Low-contrast, friendly — ideal for dashboards",
-    "tags": ["sans-serif", "friendly", "dashboard"]
-  },
-  {
-    "name": "Space Grotesk",
-    "style": "Sans-Serif",
-    "weight": "400;500;600;700",
-    "description": "Quirky proportional — stands out in tech projects",
-    "tags": ["sans-serif", "tech", "display"]
-  },
-  {
-    "name": "Outfit",
-    "style": "Sans-Serif",
-    "weight": "400;500;600;700;800",
-    "description": "Wide, geometric — smooth for headlines and cards",
-    "tags": ["sans-serif", "geometric", "headlines"]
-  },
-  {
-    "name": "Manrope",
-    "style": "Sans-Serif",
-    "weight": "400;500;600;700;800",
-    "description": "Semi-rounded, warm — works well at any size",
-    "tags": ["sans-serif", "rounded", "warm"]
-  },
-  {
-    "name": "Sora",
-    "style": "Sans-Serif",
-    "weight": "400;500;600;700;800",
-    "description": "Balanced geometry — modern feel for SaaS and apps",
-    "tags": ["sans-serif", "modern", "saas"]
-  },
-  {
-    "name": "General Sans",
-    "style": "Sans-Serif",
-    "weight": "400;500;600;700",
-    "description": "Neutral, elegant — a refined alternative to Inter",
-    "tags": ["sans-serif", "neutral", "elegant"]
-  },
-  {
-    "name": "Playfair Display",
-    "style": "Serif",
-    "weight": "400;500;600;700",
-    "description": "High contrast transitional — editorial & luxury feel",
-    "tags": ["serif", "editorial", "luxury"]
-  },
-  {
-    "name": "Lora",
-    "style": "Serif",
-    "weight": "400;500;600;700",
-    "description": "Calligraphic serif — beautiful for long-form reading",
-    "tags": ["serif", "reading", "elegant"]
-  },
-  {
-    "name": "Source Serif 4",
-    "style": "Serif",
-    "weight": "400;500;600;700",
-    "description": "Readable transitional — pairs seamlessly with sans",
-    "tags": ["serif", "readable", "pairing"]
-  },
-  {
-    "name": "JetBrains Mono",
-    "style": "Monospace",
     "weight": "400;500;700",
-    "description": "Developer favorite — ligatures and high readability",
-    "tags": ["monospace", "coding", "ligatures"]
+    "description": "Google's flagship font — neutral, readable, and universally familiar",
+    "tags": ["sans-serif", "ui", "readable"]
   },
   {
-    "name": "Fira Code",
-    "style": "Monospace",
-    "weight": "400;500;600;700",
-    "description": "Coding font with ligatures — clean and distinct",
-    "tags": ["monospace", "coding", "ligatures"]
-  },
-  {
-    "name": "Bricolage Grotesque",
+    "name": "Nunito",
     "style": "Sans-Serif",
     "weight": "400;500;600;700;800",
-    "description": "Expressive variable — playful yet professional",
-    "tags": ["sans-serif", "variable", "expressive"]
-  },
-  {
-    "name": "Instrument Sans",
-    "style": "Sans-Serif",
-    "weight": "400;500;600;700",
-    "description": "Compact, contemporary — efficient use of space",
-    "tags": ["sans-serif", "compact", "modern"]
-  },
-  {
-    "name": "Poppins",
-    "style": "Sans-Serif",
-    "weight": "400;500;600;700;800",
-    "description": "Geometric, rounded — friendly and widely loved for UI",
-    "tags": ["sans-serif", "geometric", "rounded"]
+    "description": "Rounded, friendly — great for apps and playful interfaces",
+    "tags": ["sans-serif", "rounded", "friendly"]
   }
 ]
