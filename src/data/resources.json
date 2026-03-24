@@ -171,6 +171,24 @@
     "pinned": false
   },
   {
+    "id": 48,
+    "title": "Freepik",
+    "description": "Massive library of free and premium vectors, illustrations, icons, and stock photos for any creative project.",
+    "url": "https://www.freepik.com",
+    "category": "Icons & Assets",
+    "tags": ["icons", "illustrations", "vectors", "free"],
+    "pinned": false
+  },
+  {
+    "id": 49,
+    "title": "Adobe Stock",
+    "description": "Premium stock photos, vectors, illustrations, and templates — seamlessly integrated with Adobe Creative Cloud.",
+    "url": "https://stock.adobe.com",
+    "category": "Icons & Assets",
+    "tags": ["stock", "photos", "vectors", "adobe"],
+    "pinned": false
+  },
+  {
     "id": 16,
     "title": "Dribbble",
     "description": "The go-to community for designers to share work, find inspiration, and discover top UI/UX design trends.",
