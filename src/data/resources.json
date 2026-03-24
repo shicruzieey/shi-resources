@@ -189,6 +189,15 @@
     "pinned": false
   },
   {
+    "id": 50,
+    "title": "Fontshare",
+    "description": "Free, high-quality fonts from Indian Type Foundry — professional typefaces available for personal and commercial use.",
+    "url": "https://www.fontshare.com",
+    "category": "Icons & Assets",
+    "tags": ["fonts", "typography", "free"],
+    "pinned": false
+  },
+  {
     "id": 16,
     "title": "Dribbble",
     "description": "The go-to community for designers to share work, find inspiration, and discover top UI/UX design trends.",
