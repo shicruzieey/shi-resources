@@ -427,6 +427,15 @@
     "pinned": false
   },
   {
+    "id": 51,
+    "title": "Creatsy",
+    "description": "Premium Photoshop mockup templates for apparel, packaging, and branding — easy to customize and present.",
+    "url": "https://creatsy.com",
+    "category": "Mockups",
+    "tags": ["mockups", "psd", "apparel", "branding"],
+    "pinned": false
+  },
+  {
     "id": 43,
     "title": "ChatGPT",
     "description": "OpenAI's conversational AI — brainstorm ideas, write copy, debug code, and get answers fast.",
