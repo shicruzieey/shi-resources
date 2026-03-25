@@ -481,6 +481,15 @@
     "pinned": false
   },
   {
+    "id": 57,
+    "title": "Pixel Buddha",
+    "description": "Premium and free design resources — mockups, UI kits, fonts, and graphics for creative professionals.",
+    "url": "https://pixelbuddha.net",
+    "category": "Mockups",
+    "tags": ["mockups", "free", "ui-kits", "design"],
+    "pinned": false
+  },
+  {
     "id": 43,
     "title": "ChatGPT",
     "description": "OpenAI's conversational AI — brainstorm ideas, write copy, debug code, and get answers fast.",
