@@ -472,6 +472,15 @@
     "pinned": false
   },
   {
+    "id": 56,
+    "title": "Mockup Cloud",
+    "description": "Curated library of free and premium mockups for branding, packaging, apparel, and digital products.",
+    "url": "https://www.mockupcloud.com",
+    "category": "Mockups",
+    "tags": ["mockups", "free", "branding", "packaging"],
+    "pinned": false
+  },
+  {
     "id": 43,
     "title": "ChatGPT",
     "description": "OpenAI's conversational AI — brainstorm ideas, write copy, debug code, and get answers fast.",
