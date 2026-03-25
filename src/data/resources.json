@@ -490,6 +490,24 @@
     "pinned": false
   },
   {
+    "id": 58,
+    "title": "Paliotta",
+    "description": "Curated mockup templates and design resources by Paliotta — clean, minimal, and ready to use.",
+    "url": "https://paliotta.gumroad.com",
+    "category": "Mockups",
+    "tags": ["mockups", "gumroad", "branding", "design"],
+    "pinned": false
+  },
+  {
+    "id": 59,
+    "title": "Minimal Mockups",
+    "description": "Clean, minimal mockup templates for packaging, branding, and product presentations.",
+    "url": "https://www.minimalmockups.com",
+    "category": "Mockups",
+    "tags": ["mockups", "minimal", "packaging", "branding"],
+    "pinned": false
+  },
+  {
     "id": 43,
     "title": "ChatGPT",
     "description": "OpenAI's conversational AI — brainstorm ideas, write copy, debug code, and get answers fast.",
