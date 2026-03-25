@@ -436,6 +436,42 @@
     "pinned": false
   },
   {
+    "id": 52,
+    "title": "Freepik",
+    "description": "Massive library of free and premium mockups, vectors, illustrations, and stock photos for any creative project.",
+    "url": "https://www.freepik.com",
+    "category": "Mockups",
+    "tags": ["mockups", "free", "vectors", "illustrations"],
+    "pinned": false
+  },
+  {
+    "id": 53,
+    "title": "Mockup Bee",
+    "description": "Free high-quality mockups for apparel, devices, packaging, and print — clean and easy to use.",
+    "url": "https://mockupbee.com",
+    "category": "Mockups",
+    "tags": ["mockups", "free", "apparel", "devices"],
+    "pinned": false
+  },
+  {
+    "id": 54,
+    "title": "Pixpine",
+    "description": "Free PSD and PNG mockups for branding, packaging, and product presentations.",
+    "url": "https://pixpine.com",
+    "category": "Mockups",
+    "tags": ["mockups", "psd", "free", "branding"],
+    "pinned": false
+  },
+  {
+    "id": 55,
+    "title": "Creatoom",
+    "description": "Animated and static mockup templates for apparel, devices, and packaging — great for social media content.",
+    "url": "https://creatoom.com",
+    "category": "Mockups",
+    "tags": ["mockups", "animated", "apparel", "branding"],
+    "pinned": false
+  },
+  {
     "id": 43,
     "title": "ChatGPT",
     "description": "OpenAI's conversational AI — brainstorm ideas, write copy, debug code, and get answers fast.",
