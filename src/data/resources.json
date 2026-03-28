@@ -216,6 +216,15 @@
     "pinned": false
   },
   {
+    "id": 60,
+    "title": "Cosmos",
+    "description": "Visual bookmarking and mood board tool — save, organize, and share design inspiration from across the web.",
+    "url": "https://www.cosmos.so",
+    "category": "Design Inspirations",
+    "tags": ["design", "inspiration", "moodboard", "bookmarks"],
+    "pinned": false
+  },
+  {
     "id": 19,
     "title": "Relume",
     "description": "AI-powered website builder that generates sitemaps, wireframes, and full Figma or Webflow-ready component layouts from a text prompt.",
@@ -249,6 +258,33 @@
     "url": "https://v0.dev",
     "category": "Vibe Designing",
     "tags": ["ai", "vibe-coding", "react", "components"],
+    "pinned": false
+  },
+  {
+    "id": 63,
+    "title": "Skeudesign",
+    "description": "Curated gallery of skeuomorphic and realistic UI design inspiration — textures, depth, and tactile interfaces.",
+    "url": "https://www.skeudesign.com",
+    "category": "Vibe Designing",
+    "tags": ["design", "inspiration", "ui", "skeuomorphic"],
+    "pinned": false
+  },
+  {
+    "id": 64,
+    "title": "Google Promelli",
+    "description": "Google's AI-powered design tool for generating and iterating on UI components and layouts with natural language.",
+    "url": "https://promelli.google.com",
+    "category": "Vibe Designing",
+    "tags": ["ai", "design", "generative", "google"],
+    "pinned": false
+  },
+  {
+    "id": 67,
+    "title": "Material Design 3",
+    "description": "Google's latest design system — components, guidelines, and tokens for building expressive, adaptive UIs.",
+    "url": "https://m3.material.io",
+    "category": "Vibe Designing",
+    "tags": ["design", "components", "google", "design-system"],
     "pinned": false
   },
   {
@@ -303,6 +339,42 @@
     "url": "https://manus.im",
     "category": "Vibe Coding",
     "tags": ["ai", "agentic", "vibe-coding", "autonomous"],
+    "pinned": false
+  },
+  {
+    "id": 61,
+    "title": "Capacity",
+    "description": "AI-powered work automation platform — build workflows, automate tasks, and deploy AI agents without code.",
+    "url": "https://capacity.so",
+    "category": "Vibe Coding",
+    "tags": ["ai", "automation", "vibe-coding", "no-code"],
+    "pinned": false
+  },
+  {
+    "id": 62,
+    "title": "Bolt.new",
+    "description": "AI-powered full-stack web development environment — prompt, build, and deploy apps directly in the browser.",
+    "url": "https://bolt.new",
+    "category": "Vibe Coding",
+    "tags": ["ai", "vibe-coding", "full-stack", "deploy"],
+    "pinned": false
+  },
+  {
+    "id": 65,
+    "title": "Firebase Studio",
+    "description": "Google's AI-powered full-stack development environment — build, run, and deploy apps with Gemini assistance.",
+    "url": "https://firebase.studio",
+    "category": "Vibe Coding",
+    "tags": ["ai", "vibe-coding", "full-stack", "google"],
+    "pinned": false
+  },
+  {
+    "id": 66,
+    "title": "Claude Code",
+    "description": "Anthropic's agentic coding tool — runs in your terminal, reads your codebase, and implements features end-to-end.",
+    "url": "https://claude.ai/code",
+    "category": "Vibe Coding",
+    "tags": ["ai", "agentic", "vibe-coding", "terminal"],
     "pinned": false
   },
   {
@@ -505,6 +577,33 @@
     "url": "https://www.minimalmockups.com",
     "category": "Mockups",
     "tags": ["mockups", "minimal", "packaging", "branding"],
+    "pinned": false
+  },
+  {
+    "id": 68,
+    "title": "Hello Mocku",
+    "description": "Free and premium mockup templates for apparel, packaging, and branding — clean and easy to customize.",
+    "url": "https://www.hellomocku.com",
+    "category": "Mockups",
+    "tags": ["mockups", "free", "apparel", "branding"],
+    "pinned": false
+  },
+  {
+    "id": 69,
+    "title": "Wanna This",
+    "description": "High-quality 3D and flat mockups for apparel, accessories, and lifestyle products.",
+    "url": "https://wannathis.one",
+    "category": "Mockups",
+    "tags": ["mockups", "3d", "apparel", "lifestyle"],
+    "pinned": false
+  },
+  {
+    "id": 70,
+    "title": "LS Graphics",
+    "description": "Premium free mockups, scene creators, and design assets — beautifully crafted for professional presentations.",
+    "url": "https://www.ls.graphics",
+    "category": "Mockups",
+    "tags": ["mockups", "free", "scene-creator", "design"],
     "pinned": false
   },
   {
