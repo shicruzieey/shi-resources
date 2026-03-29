@@ -235,9 +235,9 @@
   },
   {
     "id": 20,
-    "title": "Figma AI",
-    "description": "AI features built into Figma — generate UI from prompts, auto-rename layers, rewrite copy, and prototype faster with contextual suggestions.",
-    "url": "https://www.figma.com/ai",
+    "title": "Figma Make",
+    "description": "Figma's AI-powered tool that turns prompts and designs into interactive, production-ready components and prototypes.",
+    "url": "https://www.figma.com/make",
     "category": "Vibe Designing",
     "tags": ["ai", "design", "figma", "prototyping"],
     "pinned": false
@@ -285,6 +285,24 @@
     "url": "https://m3.material.io",
     "category": "Vibe Designing",
     "tags": ["design", "components", "google", "design-system"],
+    "pinned": false
+  },
+  {
+    "id": 71,
+    "title": "Flowstep AI",
+    "description": "AI-powered UX design tool — generate user flows, wireframes, and UI screens from text prompts in seconds.",
+    "url": "https://flowstep.ai",
+    "category": "Vibe Designing",
+    "tags": ["ai", "design", "ux", "wireframes"],
+    "pinned": false
+  },
+  {
+    "id": 72,
+    "title": "UX Pilot",
+    "description": "AI design assistant for Figma — generate screens, components, and UX copy directly inside your design workflow.",
+    "url": "https://uxpilot.ai",
+    "category": "Vibe Designing",
+    "tags": ["ai", "design", "figma", "ux"],
     "pinned": false
   },
   {
