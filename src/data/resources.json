@@ -271,9 +271,9 @@
   },
   {
     "id": 64,
-    "title": "Google Promelli",
+    "title": "Google Pomelli",
     "description": "Google's AI-powered design tool for generating and iterating on UI components and layouts with natural language.",
-    "url": "https://promelli.google.com",
+    "url": "https://labs.google.com/pomelli/about/",
     "category": "Vibe Designing",
     "tags": ["ai", "design", "generative", "google"],
     "pinned": false
